@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerbalAIOCalculator", "KerbalAIOCalculator\KerbalAIOCalculator.csproj", "{D3C93D27-FAC0-4E69-9832-48A845AE8DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{F5A3D48C-9282-4BFE-8D99-FE242A8D6176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C93D27-FAC0-4E69-9832-48A845AE8DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C93D27-FAC0-4E69-9832-48A845AE8DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C93D27-FAC0-4E69-9832-48A845AE8DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C93D27-FAC0-4E69-9832-48A845AE8DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A3D48C-9282-4BFE-8D99-FE242A8D6176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A3D48C-9282-4BFE-8D99-FE242A8D6176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A3D48C-9282-4BFE-8D99-FE242A8D6176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A3D48C-9282-4BFE-8D99-FE242A8D6176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726B2804-1F87-4802-A3D3-6B36C3738654}
+	EndGlobalSection
+EndGlobal
