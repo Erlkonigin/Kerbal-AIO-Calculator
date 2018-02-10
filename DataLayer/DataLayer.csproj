@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\AtmosphericParameters.cs" />
+    <Compile Include="Models\OrbitalParameters.cs" />
     <Compile Include="Models\Planet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
